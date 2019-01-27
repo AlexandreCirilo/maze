@@ -7,18 +7,18 @@ There are many algorithms for randomly generating mazes out there (see [1]). Her
 ## Output
 ### Maze generation
 
-The maze is randomly generated via the recursive backtracker algorithm.
-<img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif" width="200" height="200">
+The maze is randomly generated via the recursive backtracker algorithm. <br/>
+<img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif" width="300" height="300">
 
 ### Pathway plotting
 
-In order to use Djikstra;s algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph.
-<img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png" width="200" height="200">
+In order to use Djikstra;s algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph. <br/>
+<img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png" width="300" height="300">
 
 ### Solver
 
-Solving the randomly generated maze is done via Dijkstra's algorithm, an algorithm for finding the shortest paths between nodes in a graph.
-<img src="(https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_3.png" width="200" height="200">
+Solving the randomly generated maze is done via Dijkstra's algorithm, an algorithm for finding the shortest paths between nodes in a graph. <br/>
+<img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_3.png" width="300" height="300">
 
 ## References
 
