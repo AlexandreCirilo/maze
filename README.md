@@ -8,12 +8,12 @@ There are many algorithms for randomly generating mazes out there (see [1]). Her
 ### Maze generation
 
 The maze is randomly generated via the recursive backtracker algorithm.
-![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif | width=100)
+![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif)
 
 ### Pathway plotting
 
 In order to use Djikstra;s algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph.
-![200x200](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png)
+![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png | width=100)
 
 ### Solver
 
