@@ -13,12 +13,12 @@ The maze is randomly generated via the recursive backtracker algorithm.
 ### Pathway plotting
 
 In order to use Djikstra;s algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph.
-![alt text](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png =300x300)
+![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png =300x300)
 
 ### Solver
 
 Solving the randomly generated maze is done via Dijkstra's algorithm, an algorithm for finding the shortest paths between nodes in a graph.
-![alt text](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_3.png =300x300)
+![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_3.png =300x300)
 
 ## References
 
