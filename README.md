@@ -8,7 +8,7 @@ There are many algorithms for randomly generating mazes out there (see [1]). Her
 ### Maze generation
 
 The maze is randomly generated via the recursive backtracker algorithm.
-![200x200](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif)
+![](https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_1.gif)
 
 ### Pathway plotting
 
