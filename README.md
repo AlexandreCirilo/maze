@@ -23,7 +23,7 @@ Solving the randomly generated maze is done via Dijkstra's algorithm, an algorit
 ## References
 
 1. [Perfect maze generators](http://people.cs.ksu.edu/~ashley78/wiki.ashleycoleman.me/index.php/Perfect_Maze_Generators.html)
-1. [Recursive backtracker](http://people.cs.ksu.edu/~ashley78/wiki.ashleycoleman.me/index.php/Recursive_Backtracker.html)
-1. [Breadth-first search](https://courses.cs.washington.edu/courses/cse326/03su/homework/hw3/bfs.html)
-1. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Pseudocode)
-1. [Big-O notation](http://bigocheatsheet.com/)
+2. [Recursive backtracker](http://people.cs.ksu.edu/~ashley78/wiki.ashleycoleman.me/index.php/Recursive_Backtracker.html)
+3. [Breadth-first search](https://courses.cs.washington.edu/courses/cse326/03su/homework/hw3/bfs.html)
+4. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Pseudocode)
+5. [Big-O notation](http://bigocheatsheet.com/)
