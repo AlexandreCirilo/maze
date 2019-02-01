@@ -12,7 +12,7 @@ The maze is randomly generated via the recursive backtracker algorithm. <br/>
 
 ### Pathway plotting
 
-In order to use Djikstra;s algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph. <br/>
+In order to use Djikstra's algorithm to solve the maze, we first need to compute all the possible pathways and represent it into a graph. <br/>
 <img src="https://github.com/AlexandreCirilo/maze-generator/blob/master/images/maze_2.png" width="300" height="300">
 
 ### Solver
